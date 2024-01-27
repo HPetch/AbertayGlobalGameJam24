@@ -1,0 +1,15 @@
+0=Pelvis
+1=Torso
+2=Head
+3=Left upperarm
+4=Left shoulder
+5=Left lowerarm
+6=Thigh
+7=Shin
+8=Feet
+9=Left hand
+10=Eyes
+11=Right forearm
+12=Right shoulder
+13=Right lowerarm
+14=Right hand
